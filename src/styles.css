@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("@picocss/pico");
+
+body {
+  --primary: #d81b60;
+}
+
+.margin-top-3 {
+  margin-top: 3em;
+}
+.col-with-padding-x3 {
+  padding: 0 3em;
+}
+
+@media all and (max-width: 982px) {
+  .col-with-padding-x3 {
+    padding: 0 0em;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+}
