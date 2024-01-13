@@ -1,10 +1,22 @@
 # PasswordGenerator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+This project was generated with :  
+- [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0
+- pico css
+- testing with Jasmine
+
+![screenshot1](https://github.com/SpWebDevPro/password-generator/blob/master/img/PasswordGenerator.png)  
+
+![screenshot2](https://github.com/SpWebDevPro/password-generator/blob/master/img/PasswordGenerator-1.png)  
+
+
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`npm install` to load the dependencies
+
+Run `npm run start ` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
